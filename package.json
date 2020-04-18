@@ -1,0 +1,14 @@
+{
+  "name": "jmarceli-mock-window",
+  "version": "1.0.0",
+  "description": "Example of window mocking",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "author": "Jan Grzegorowski",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^25.3.0"
+  }
+}
